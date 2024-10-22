@@ -1,9 +1,9 @@
-### Hi there 👋
+- 👋 Hello it's **Féréol** !
+- 🎓 I prepare a **[Specialized Master's in Data Engineering](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
+- 💼 **Backend engineer** specialized in Python 🐍 with some experience in DevOps ⚙ and MLOps 🤖. With my dual role as project manager 👷‍♂️ and developer 👨‍💻, I am able to handle end-to-end data projects from design to production.
+- 📌 My **background in Statistics -> Data Science and Data Engineering** allows me to combine **strategic vision** with **technical skills** to deliver ✨ **innovative solutions**... 🤹‍♂️ 
 
-Backend engineer specialized in Python 🐍 with some experience in DevOps and MLOps. With my dual role as project manager and developer, I am able to handle end-to-end data projects from design to production. My background in Statistics -> Data Science and Data Engineering allows me to combine strategic vision with technical skills to deliver innovative solutions... 🤹‍♂️ 
-
-### 🔄 Last Updated:
-- README last updated on **22/10/2024**.
+#### 🔄 Last update : 22/10/2024
 
 <!--
 from analytics to engineering
@@ -30,13 +30,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- ✌ Hello it's **Féréol** !
-- 🎓 I prepare a **[Data Engineering degree](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
-- 💼 Currently working as a **Backend Engineer**
-
 ### 🏅 Certifications
 - [![Machine Learning in Production](https://img.shields.io/badge/Coursera-MLOps-blue)](https://coursera.org/verify/9PJW3LW2JALC)
-- 
+- .. (TBD)
 
 ### 📚 Achievements
 
@@ -45,8 +41,8 @@ Here are some ideas to get you started:
 
 
 ### 💼 Work Experience
-- **Data/Software Engineer** at `Axa @ Direct Assurance`, Paris (since 1 year)
-- **Data Analyst** at `Schenker France`, Paris (2 years)
+- **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
+- **Financial Data Analyst** at `Schenker France`, Paris (2 years)
 
 ### 🌟 Top `5` Repositories
 
