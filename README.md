@@ -1,5 +1,5 @@
 - 👋 Hello it's **Féréol** !
-- 🎓 I prepare a **[Specialized Master's in Data Engineering](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
+- 🎓 I prepare a **[Specialized Master's in Data Engineering and AI](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
 - 💼 **Backend engineer** specialized in Python 🐍 with some experience in DevOps ⚙ and MLOps 🤖. With my dual role as project manager 👷‍♂️ and developer 👨‍💻, I can handle end-to-end data projects from design to production.
 - 📌 My **background in Statistics -> Data Science and Data Engineering** allows me to combine **strategic vision** with **technical skills** to deliver ✨ **innovative solutions**... 🤹‍♂️ 
 
