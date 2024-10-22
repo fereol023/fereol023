@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 
 ### 🏅 Certifications
 - [![Machine Learning in Production](https://img.shields.io/badge/Coursera-MLOps-blue)](https://coursera.org/verify/9PJW3LW2JALC)
-- .. (TBD)
+- (TBD..)
 
 ### 💻 Technical skills
-- Languages : Python and SQL (7yrs) - R (4yrs) - DAX (2yrs) - Scala -
-- Frameworks : FastAPI - Streamlit - Spark/Hadoop - MLFlow - Kedro
+- Languages : Python and SQL (7yrs) - R (4yrs) - DAX (2yrs) - Scala - Cypher
+- Frameworks : FastAPI - Streamlit - Spark/Hadoop - MLFlow - Kedro -
 - Ops : Docker - K8s - Minikube - Redhat Openshift - Github Actions - Azure (ACR, AKS, WebApp, ACI, AppInsights)
-- Dataviz and processing tools : Excel -> ERP SAP -> Power BI -> Databricks -> Azure Data Factory -> Grafana
+- Dataviz and processing tools : Excel -> ERP SAP -> PDI - Power BI -> Databricks - Azure Data Factory - Grafana - ELK
+- Data storage servers : Postgres - MySQL - Neo4j - MongoDB - 
 
 ### 💼 Work Experience
 - **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
 - I designed and created the backend server `NightON-API` to expose a database and the mailing module.   
 
 #### 2. `Insurance-churn` - in a Kedro-like env
- - I setup a Data and MLOps repository around the subject of churn prediction : from data files to model serving.   
+ - I set up a Data and MLOps repository around the subject of churn prediction : from data files to model serving.   
    
 #### 3. `NBA - Who's is the goat ?`
  - I try to find out (with stats) the truth about LeBron vs Jordan greatness debate.. and guess what ?
