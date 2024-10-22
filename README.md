@@ -1,6 +1,6 @@
 - 👋 Hello it's **Féréol** !
 - 🎓 I prepare a **[Specialized Master's in Data Engineering](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
-- 💼 **Backend engineer** specialized in Python 🐍 with some experience in DevOps ⚙ and MLOps 🤖. With my dual role as project manager 👷‍♂️ and developer 👨‍💻, I am able to handle end-to-end data projects from design to production.
+- 💼 **Backend engineer** specialized in Python 🐍 with some experience in DevOps ⚙ and MLOps 🤖. With my dual role as project manager 👷‍♂️ and developer 👨‍💻, I can handle end-to-end data projects from design to production.
 - 📌 My **background in Statistics -> Data Science and Data Engineering** allows me to combine **strategic vision** with **technical skills** to deliver ✨ **innovative solutions**... 🤹‍♂️ 
 
 #### 🔄 Last update : 22/10/2024
@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 - [![Machine Learning in Production](https://img.shields.io/badge/Coursera-MLOps-blue)](https://coursera.org/verify/9PJW3LW2JALC)
 - .. (TBD)
 
-### 📚 Achievements
-
-
-### 💻 Technical stack
-
+### 💻 Technical skills
+- Languages : Python and SQL (7yrs) - R (4yrs) - DAX (2yrs) - Scala -
+- Frameworks : FastAPI - Streamlit - Spark/Hadoop - MLFlow - Kedro
+- Ops : Docker - K8s - Minikube - Redhat Openshift - Github Actions - Azure (ACR, AKS, WebApp, ACI, AppInsights)
+- Dataviz and processing tools : Excel -> ERP SAP -> Power BI -> Databricks -> Azure Data Factory -> Grafana
 
 ### 💼 Work Experience
 - **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - A AirBnB-like platform for students in search of a place to organize parties.
 - I designed and created the backend server `NightON-API` to expose a database and the mailing module.   
 
-#### 2. `Insurance-churn` - a Kedro-like env
+#### 2. `Insurance-churn` - in a Kedro-like env
  - I setup a Data and MLOps repository around the subject of churn prediction : from data files to model serving.   
    
 #### 3. `NBA - Who's is the goat ?`
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### 🤙 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/fereol-gbenou/" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img align="center" alt="LinkedIn" height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
 </p>
 
