@@ -18,6 +18,11 @@ Hello I'm **Féréol Gbenou** !
   </a>
 </p>
 
+### 💼 Work Experience
+- **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
+- **Financial Data Analyst** at `Schenker France`, Paris (2 years)
+
+<!--
 ### 🏅 Certifications
 - [![Machine Learning in Production](https://img.shields.io/badge/Coursera-MLOps-blue)](https://coursera.org/verify/9PJW3LW2JALC)
 - (TBD..)
@@ -52,7 +57,7 @@ Hello I'm **Féréol Gbenou** !
       
 #### 5. `Lyrics generator`   
   - Before GPTs, we used to use graph traversal algorithms
-    
+-->
 ### 🤙 How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/fereol-gbenou/" target="_blank">
