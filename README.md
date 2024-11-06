@@ -1,28 +1,16 @@
-- 👋 Hello it's **Féréol** !
+Hello I'm **Féréol Gbenou** !
+
+✨ Some quick facts about me:
+
+- 👨🏼‍💻 I like building Data and ML-based stuffs in Python 🐍
+- 🚀 I currently work in Insurance as **software engineer, data** and I got skills with machine learning, DevOps ⚙ and MLOps 🤖 (and I obviously struggle to fit myself into one specific bucket...)
 - 🎓 I prepare a **[Specialized Master's in Data Engineering and AI](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
-- 💼 **Backend engineer** specialized in Python 🐍 with some experience in DevOps ⚙ and MLOps 🤖. With my dual role as project manager 👷‍♂️ and developer 👨‍💻, I can handle end-to-end data projects from design to production.
-- 📌 My **background in Statistics -> Data Science and Data Engineering** allows me to combine **strategic vision** with **technical skills** to deliver ✨ **innovative solutions**... 🤹‍♂️ 
+- 🎓 I have a master's degree in **[Data Science speciality Innovation in Business and Society](https://cmid3s.parisnanterre.fr/formation/master/)** from `Paris Nanterre University`.
+  
+- 💼 With my dual role as project manager and engineer 👷‍♂️👨‍💻, I can handle end-to-end data projects from design to production.
+- 📌 My **background in Statistics -> Data Science and now Data Engineering** allows me to combine **strategic vision** with **technical skills** to deliver ✨ **innovative solutions** 🤹‍♂️ 
 
 #### 🔄 Last update : 22/10/2024
-
-<!--
-from analytics to engineering
-
-**fereol023/fereol023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### ✨ About Me
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -45,7 +33,7 @@ Here are some ideas to get you started:
 - **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
 - **Financial Data Analyst** at `Schenker France`, Paris (2 years)
 
-### 🌟 Top `5` Repositories
+### 🌟 Top `5` Repositories description
 
 #### 1. `NightON` - Let's party !
 - A AirBnB-like platform for students in search of a place to organize parties.
