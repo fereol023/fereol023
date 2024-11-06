@@ -20,7 +20,7 @@ Hello I'm **Féréol Gbenou** !
 
 ### 💼 Work Experience
 - **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
-- **Financial Data Analyst** at `Schenker France`, Paris (2 years)
+- **Data Analyst - Data Excellence and Financial Reporting** at `Schenker France`, Paris (2 years)
 
 <!--
 ### 🏅 Certifications
