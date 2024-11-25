@@ -2,7 +2,7 @@ Hello I'm **Féréol Gbenou** !
 
 ✨ Some quick facts about me:
 
-- 👨🏼‍💻 I like building Data and ML-based stuffs in Python 🐍
+- 👨🏼‍💻 I'm interested in building and deploying Data and ML-based stuffs in Python 🐍
 - 🚀 I currently work in Insurance as **software engineer, data** and I got skills with machine learning, DevOps ⚙ and MLOps 🤖 (and I obviously struggle to fit myself into one specific bucket...)
 - 🎓 I prepare a **[Specialized Master's in Data Engineering and AI](https://www.ynov.com/formations/informatique/mastere-data-engineer)** at `Paris YNOV Campus`.
 - 🎓 I have a master's degree in **[Data Science speciality Innovation in Business and Society](https://cmid3s.parisnanterre.fr/formation/master/)** from `Paris Nanterre University`.
