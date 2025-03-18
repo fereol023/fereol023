@@ -35,7 +35,7 @@ Hello I'm **Féréol Gbenou** !
 - Data storage servers : Postgres - MySQL - Neo4j - MongoDB - 
 
 ### 💼 Work Experience
-- **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 1 year)
+- **Data and Software Engineer - Pricing** at `Axa @ Direct Assurance`, Paris (since 2 year)
 - **Financial Data Analyst** at `Schenker France`, Paris (2 years)
 
 ### 🌟 Top `5` Repositories description
